@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589835527228.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2800603221",
+    "id" : "9284E788",
+    "lastKnownWriteTime" : 1586098033,
+    "last_content_update" : 1586098033,
+    "path" : "~/codeclan/codeclan_homework_dhileasheywood/week_04/1_dirty_data_project/task_3/documentation_and_analysis/bird_documentation.Rmd",
+    "project_path" : "documentation_and_analysis/bird_documentation.Rmd",
+    "properties" : {
+        "cursorPosition" : "24,8",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
